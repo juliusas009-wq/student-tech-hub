@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-05T21:29:48.264749+00:00",
+  "updated": "2026-09-05T23:12:26.950993+00:00",
   "articles": [
+    {
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "date": "Sat, 05 Sep 2026 22:49:55 +0000",
+      "source": "TechCrunch",
+      "category": "Artificial Intelligence"
+    },
     {
       "title": "Hikers rescued after using Google Gemini for planning",
       "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
@@ -152,14 +160,6 @@
       "date": "Fri, 04 Sep 2026 00:48:42 +0000",
       "source": "TechCrunch",
       "category": "Programming"
-    },
-    {
-      "title": "Oura files to go public",
-      "summary": "The ring maker says that its business has shown significant revenue growth over the past year.",
-      "link": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
-      "date": "Thu, 03 Sep 2026 22:35:41 +0000",
-      "source": "TechCrunch",
-      "category": "Technology"
     },
     {
       "title": "Architecting memory and storage in the AI era",
