@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-05T19:15:28.755134+00:00",
+  "updated": "2026-09-05T21:29:48.264749+00:00",
   "articles": [
+    {
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "date": "Sat, 05 Sep 2026 19:35:24 +0000",
+      "source": "TechCrunch",
+      "category": "Artificial Intelligence"
+    },
     {
       "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
       "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
@@ -150,14 +158,6 @@
       "summary": "The ring maker says that its business has shown significant revenue growth over the past year.",
       "link": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
       "date": "Thu, 03 Sep 2026 22:35:41 +0000",
-      "source": "TechCrunch",
-      "category": "Technology"
-    },
-    {
-      "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
-      "summary": "The company published a form on its website Thursday soliciting info from people who are interested in \"Cybercab fleet vehicle purchasing.\"",
-      "link": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
-      "date": "Thu, 03 Sep 2026 22:18:30 +0000",
       "source": "TechCrunch",
       "category": "Technology"
     },
