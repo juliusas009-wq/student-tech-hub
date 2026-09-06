@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-06T19:24:22.533470+00:00",
+  "updated": "2026-09-06T21:33:19.525943+00:00",
   "articles": [
+    {
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "date": "Sun, 06 Sep 2026 20:47:37 +0000",
+      "source": "TechCrunch",
+      "category": "Technology"
+    },
     {
       "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
       "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
@@ -150,14 +158,6 @@
       "summary": "A senator's letter confirms the U.S. military moved to prevent the tracking after foreign adversaries used location data to target troops.",
       "link": "https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/",
       "date": "Fri, 04 Sep 2026 13:21:37 +0000",
-      "source": "TechCrunch",
-      "category": "Technology"
-    },
-    {
-      "title": "Feds launch investigation into Tesla’s Cybercab deployment",
-      "summary": "The investigation was launched just a few hours after Tesla put the first production Cybercabs on the road in Austin.",
-      "link": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/",
-      "date": "Fri, 04 Sep 2026 12:01:14 +0000",
       "source": "TechCrunch",
       "category": "Technology"
     },
