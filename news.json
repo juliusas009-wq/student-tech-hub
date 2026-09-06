@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-06T21:33:19.525943+00:00",
+  "updated": "2026-09-06T23:29:39.714740+00:00",
   "articles": [
+    {
+      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+      "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
+      "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+      "date": "Sun, 06 Sep 2026 21:41:06 +0000",
+      "source": "TechCrunch",
+      "category": "Technology"
+    },
     {
       "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
       "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
@@ -150,14 +158,6 @@
       "summary": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
       "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
       "date": "Fri, 04 Sep 2026 14:00:00 +0000",
-      "source": "TechCrunch",
-      "category": "Technology"
-    },
-    {
-      "title": "US military disabled ad tracking on troops’ devices following reports of targeted attacks",
-      "summary": "A senator's letter confirms the U.S. military moved to prevent the tracking after foreign adversaries used location data to target troops.",
-      "link": "https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/",
-      "date": "Fri, 04 Sep 2026 13:21:37 +0000",
       "source": "TechCrunch",
       "category": "Technology"
     },
